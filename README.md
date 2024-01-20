@@ -5,4 +5,4 @@
 
 <img src="https://github.com/Griuzaki/Site-One-Percy/blob/master/assets/imagens/desktop.jpg%20(2).png?raw=true"/>
 
-<img src="https://github.com/Griuzaki/Site-One-Percy/blob/master/assets/imagens/mobile.jpg.png?raw=true"/>
+<img align="center" src="https://github.com/Griuzaki/Site-One-Percy/blob/master/assets/imagens/mobile.jpg.png?raw=true"/>
